@@ -1,4 +1,4 @@
-# TodoConsoleApp
+# TodoConsoleApp - An amazing java project
 
 Problem Statement: Create a simple java TODO application.
 
